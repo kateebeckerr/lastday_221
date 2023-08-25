@@ -11,3 +11,5 @@ theme_kateb <- function() {
         panel.grid = element_line(color = "cyan"))
 }
 
+usethis::usegit()
+usethis:::use_github()
